@@ -1,2 +1,2 @@
-*.inc text eol=lf
-*.pwn text=auto
+*.inc text whitespace=cr-at-eol
+*.pwn text whitespace=cr-at-eol
