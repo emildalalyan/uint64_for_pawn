@@ -1,2 +1,2 @@
-*.inc text=auto
+*.inc text eol=lf
 *.pwn text=auto
