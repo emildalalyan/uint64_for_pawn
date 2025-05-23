@@ -54,12 +54,10 @@ carrying:
 	#emit INVERT
 	#emit JZER overflow
 	#emit INVERT
-	#emit STOR.I
-#else
-
-	#emit INC.I
+	#emit MOVE.pri
 #endif
 
+	#emit INC.I
 	#emit RETN
 
 check:
