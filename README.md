@@ -45,7 +45,7 @@ main()
 В этом случае, скорость операций не станет "камнем преткновения".
 
 ### Документация
-В данный момент, документация находится на стадии производства.
+* [Документация на русском языке](docs-ru/Main.md)
 
 ### I don't understand Russian.
 Sorry, but there are no any translations yet. You can still use some translator.
