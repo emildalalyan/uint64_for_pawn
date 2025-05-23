@@ -47,5 +47,5 @@ main()
 ### Документация
 * [Документация на русском языке](docs-ru/Main.md)
 
-### I don't understand Russian.
-Sorry, but there are no any translations yet. You can still use some translator.
+### Okay, what if i don't understand Russian?
+* There is [English version](README-en-US.md) of this README
